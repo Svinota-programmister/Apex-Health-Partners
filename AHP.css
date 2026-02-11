@@ -7,3 +7,10 @@
 body {
   background-color: DB9B83;
 }
+
+.main-title {
+  color: #B98E8E;
+  margin: 20px 0 10px;
+  font-size: 64px;
+  font-weight: 400;
+ }
