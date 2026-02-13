@@ -13,8 +13,50 @@ body {
   margin: 20px 0 10px;
   font-size: 64px;
   font-weight: 400;
+  margin-bottom: 16px;
+  display: inline-block;
+  padding-bottom: 8px;
  }
 
 .section-title {
-  
+  font-size: ;
+  font-weight: ;
+  color: ;
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.cta-title {
+  font-size: ;
+  font-weight: ;
+  color: ;
+  text-align: left;
+}
+
+.doctor-name: {
+  font-size: ;
+  font-weight: ;
+  color: ;
+  margin-bottom: 8px;
+}
+
+.appointment-title {
+  font-size: ;
+  font-weight: ;
+  color: ;
+  margin-top: 40px;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+
+.contacts-title {
+  font-size: ;
+  font-weight: ;
+  color: ;
+  margin-top: 48px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+  text-decoration-color: ;
+  text-underline-offset: 12px;
+  text-decoration-thickness: 3px;
 }
